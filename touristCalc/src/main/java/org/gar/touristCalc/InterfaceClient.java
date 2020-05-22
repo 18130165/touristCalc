@@ -62,7 +62,7 @@ public class InterfaceClient extends Components {
 	/**
 	 * Создание массива с названиями чекбоксов
 	 */
-	private String[] checkboxesNames = { "Завтрак", "Обед", "Ужин" };
+	private String[] checkboxesNames = { "Завтрак", "Полдник", "Ужин" };
 	/**
 	 * Создание массива с названиями переключателей
 	 */
